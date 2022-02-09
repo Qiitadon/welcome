@@ -6,7 +6,7 @@
 
 -  2022/02/28 の [Qiitadon.com の閉鎖](https://blog.qiita.com/terminate-provision-of-qiitadon/)に向けての各種アーカイブ先として。
 -  異なるインスタンスに引っ越したとしても、キーたんの同窓として繋がれる先の 1 つとして。
-  -  現在わかっている引越し先は[こちら](https://github.com/Qiitadon/qiitadon.github.com/blob/main/README.md)
+    - 現在わかっている引越し先は[こちら](https://github.com/Qiitadon/qiitadon.github.com/blob/main/README.md)
 -  Fan-made なアプリ置き場として。
 
 ## Organization へのリポジトリ追加
