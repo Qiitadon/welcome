@@ -14,7 +14,8 @@
 ## 引越し先連絡網:
 
 - [Mastogetter] (2022/02/28 の閉鎖まで有効）
-- [Discussions #2](https://github.com/Qiitadon/qiitadon.github.com/discussions/2) @ GitHub
+- [Discussions #2](https://github.com/Qiitadon/qiitadon.github.com/discussions/2) 閉鎖後の連絡先 @ GitHub
+    - もしくは `@KEINOS@misskey.dev` までメンションください。
 
 ## 引越し用バックアップツール
 
