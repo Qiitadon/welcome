@@ -8,13 +8,12 @@
 
 -  Qiitadon.com の各種アーカイブ先として。
 -  異なるインスタンスに引っ越したとしても、キーたんの同窓として繋がれる先の 1 つとして。
-    - 現在わかっている引越し先は[こちら](https://github.com/Qiitadon/qiitadon.github.com/blob/main/README.md)
 -  Fan-made なアプリ置き場として。
 
 ## 引越し先連絡網:
 
 - [Mastogetter] (2022/02/28 の閉鎖まで有効）
-- [Discussions #2](https://github.com/Qiitadon/qiitadon.github.com/discussions/2) 閉鎖後の連絡先 @ GitHub
+- [Discussions #3](https://github.com/Qiitadon/welcome/discussions/3) 閉鎖後の連絡先 @ GitHub
     - もしくは `@KEINOS@misskey.dev` までメンションください。
 
 ## 引越し用バックアップツール
